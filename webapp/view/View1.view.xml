@@ -1,0 +1,11 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="tw.com.test.controller.View1" displayBlock="true">
+    <Page id="page" title="{i18n>title}">
+   
+    <content>
+   
+        <Label width="100%" id="label" text="Rahul"/>
+   
+    </content>
+   
+    </Page>
+</mvc:View>
